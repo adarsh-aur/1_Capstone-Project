@@ -1,2 +1,2 @@
-# 1_Capstone-Project
+#Capstone project
  My First Resume
